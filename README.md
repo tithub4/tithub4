@@ -37,12 +37,17 @@ love.everyone()
 
 ---
 
-## 📈 GitHub Stats and Top Languages
+## 📈 GitHub Stats and Technologies That I Know👨🏻‍💻
 
 <p align="center">
   <img src="https://github-readme-streak-stats-ebon-xi.vercel.app/?user=tithub4&theme=radical" alt="GitHub Streak">
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,py,c,cpp,npm,css,sass,bootstrap,tailwind,html,js,ts,react,nextjs,vite,docker,firebase,aws,nodejs,prisma,mongodb,sqlite,figma,linux,md,github,gitlab,postman,vscode,django&perline=14" />
+  </a>
+</p>
 ---
 
 
