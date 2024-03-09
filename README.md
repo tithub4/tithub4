@@ -52,7 +52,7 @@ love.everyone()
 
 
 <!-- Cool animation -->
-<img src="https://raw.githubusercontent.com/tithub4/tithub4/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/tithub4/tithub4/blob/output/github-contribution-grid-snake.svg)
 
 <!--- Let's Connect section --->
 
