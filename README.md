@@ -53,16 +53,21 @@ love.everyone()
 
 <!-- Cool animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/tithub4/tithub4/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/tithub4/tithub4/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/tithub4/tithub4/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
-<!--- Let's Connect section --->
-
-
 <!--- Footer image and visitor count --->
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/tithub4/count.svg?" />
 </div>
