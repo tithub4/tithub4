@@ -3,7 +3,13 @@
 <!-- Short Introduction -->
 
 Welcome to my coding world! 🚀
-<br> I'm an enthusiastic 21-year-old student at 42 school from France, currently searching for a 4 months internship in software developement [42 School](https://42angouleme.fr/la-methode-42/). <img src="./assets/graduation.gif" width="25">
+
+<img src="./assets/graduation.gif" width="25"> I am Titouan Hellégouarch, I'm a student at [42 School](https://42angouleme.fr/la-methode-42/). I'm also a Full-Stack Developer.
+
+👨‍💻 Passionate about web/mobile development, I am currently seeking a 4-month internship in this field, followed by a 2-year apprenticeship to obtain a Level 7 RNCP diploma, specializing in database architecture and data.
+In the meantime, my goal is to create a website capable of winning the "Site of the Day" title on the prestigious Awwwards website.
+
+🎯 My goal is to craft efficient website and the best UI/UX design. I am comfortable with both frontend and backend, capable of delivering seamless user experiences and scalable applications.
 
 ### 🌟 A little more about me...
 
@@ -13,7 +19,6 @@ from world import love
 class HumanBeing:
     def __init__(self):
         self.name = "Titouan Hellégouarch"
-        self.pronouns = ["He", "Him"]
         self.role = "Student & Developer"
         self.code = ["Python", "Javascript", "C", "C++", "CSS"]
         self.tools = ["VSCode", "Git", "Notion", "Trelo", "linux"]
@@ -52,6 +57,7 @@ love.everyone()
 
 
 <!-- Cool animation -->
+<br>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
