@@ -4,7 +4,7 @@
 
 Welcome to my coding world! 🚀
 
-<img src="./assets/graduation.gif" width="25"> I am Titouan Hellégouarch, I'm a student at [42 School](https://42angouleme.fr/la-methode-42/). I'm also a Full-Stack Developer.
+<img src="./assets/graduation.gif" width="25"> I am Titouan Hellégouarch, I'm a student at [42 School](https://42angouleme.fr/la-methode-42/){:target="_blank"}. I'm also a Full-Stack Developer.
 
 👨‍💻 Passionate about web/mobile development, I am currently seeking a 4-month internship in this field, followed by a 2-year apprenticeship to obtain a Level 7 RNCP diploma, specializing in database architecture and data.
 In the meantime, my goal is to create a website capable of winning the "Site of the Day" title on the prestigious Awwwards website.
